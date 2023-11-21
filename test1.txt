@@ -5,3 +5,4 @@ Test2 for conflict issue
 Test 1
 Conflict Issue Test
 >>>>>>> 04ea2e49e264788d6521f1b99a87323a4a28753a
+Test3
