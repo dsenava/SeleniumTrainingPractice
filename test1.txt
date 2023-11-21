@@ -1,1 +1,2 @@
 Created a new file test1.txt
+Test2 for conflict issue
